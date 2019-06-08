@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id":1,
+      "nameProduct":"sp1",
+      "price":5000.000,
+      "imagePath":"assets/room_1.jpg"
+    },
+    {
+      "id":2,
+      "nameProduct":"sp1",
+      "price":2000.000,
+      "imagePath":"assets/room_2.jpg"
+    },
+    {
+      "id":3,
+      "nameProduct":"sp1",
+      "price":15000.000,
+      "imagePath":"assets/room_3.jpg"
+    }
+  ]
+}
